@@ -1,0 +1,31 @@
+/* header-start */
+.bg-dark{
+    background-color:#151b54!important;
+}
+ul li {
+    list-style: none;
+}
+.nav-link{
+    color: #fff;
+}
+.btn-success {
+    background-image: linear-gradient(
+        90deg,
+        hsl(260deg 91% 64%) 0%,
+        hsl(260deg 52% 48%) 51%,
+        hsl(261deg 62% 20%) 100%
+      );
+}
+.text-primary {
+    background-color:#0788ff !important;
+    color:#fff !important;
+}
+/* header-end */
+/* banner-start */
+.text-secondary {
+    color:#fff !important;
+}
+span {
+    background-color: #0788ff33!important;
+}
+/* banner-end */
